@@ -6,4 +6,5 @@
 ## Changes
 
 - Stall bind set to "XboxTypeS_Y" in "TAInput.ini"
-- "OneFrameThreadLag" set to "False" in "TASystemSettings.ini"
+- "WaitForGpu" set to "True" in "TASystemSettings.ini"
+- "AllowPerFrameYield" set to "False" in "TASystemSettings.ini"
